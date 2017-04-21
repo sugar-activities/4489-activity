@@ -1,0 +1,14 @@
+[Activity]
+
+name = SamplePlay
+
+bundle_id = org.laptop.SamplePlay
+icon = activity-sampleplay
+
+activity_version = 4
+
+host_version = 1
+
+show_launcher = yes
+exec = sugar-activity sampleplay.SamplePlay
+license = CC-by-SA 3.0
